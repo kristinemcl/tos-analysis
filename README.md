@@ -2,7 +2,7 @@
 
 This project examines the relationship between readability and unfairness in Terms of Service (ToS) clauses and, in the process, develops a new readability metric using a combination of Natural Language Processing techniques to provide a more comprehensive characterization.
 
-A full paper was written on this work, including a deeper explanation into the methodology and a discussion of the results. The abstract can be read in the [Paper Abstract](#paper-abstract) section. Please reach out to ksmcl [at] umich [dot] edu if you'd like to access the full paper and/or discuss this work further!
+A full paper was written on this work, including a deeper explanation into the methodology and a discussion of the results. The abstract can be read in the [Paper Abstract](#paper-abstract) section, and the full paper can be accessed [here](https://drive.google.com/file/d/1RgaSb5Wo1bJ8_iMmTU8fcKIEeZeEebxb/view?usp=sharing). Please reach out to ksmcl [at] umich [dot] edu if you'd like to discuss this work further!
 
 ## Table of Contents
 - [Usage](#usage)
