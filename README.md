@@ -8,7 +8,7 @@ A full paper was written on this work, including a deeper explanation into the m
 - [Usage](#usage)
 - [Data](#data)
 - [Results](#results)
-- [Paper Abstract](#usage)
+- [Paper Abstract](#paper-abstract)
 
 ## Usage
 
@@ -23,6 +23,8 @@ Ran using Python 3.11.5
 All data comes from [corpora aggregated by CLAUDETTE](http://claudette.eui.eu/corpora/index.html), a research project aimed at detecting potentially unfair contractual terms in Consumer Contracts and Privacy Policies through machine learning. 
 - **TaggedDocuments_142:** Annotated ToS for 142 companies in XML format. Used in final project.
 - **TaggedDocuments_50:** Annotated ToS for 50 companies in XML format.
+
+The corresponding zip files are copies of what was provided by the CLAUDETTE website when downloading the datasets through the link above, for your convenience. The zip files contain the contents of the TaggedDocuments_* folders along with several other folders that include different annotations and formats. The 142 zip is provided by the Jablonowska et al. (2021) paper and 50 zip is provided by Lippi et al. (2019).
 
 There is overlap between the two datasets, so it is not recommended to combine them.
 
